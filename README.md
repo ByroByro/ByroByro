@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Byron
 - 👀 I’m interested in Mobile App Development and JavaFX
-- 🌱 I’m currently learning Android Development with Kotlin and Cross Platform Mobile App Development with Flutter & React Native
+- 🌱 I’m currently learning Android Development with Kotlin and Cross Platform Mobile App Development with Flutter
 - 💞️ I’m looking to collaborate on Mobile App and Java projects mainly
 - 📫 How to reach me byrodeveloper@gmail.com
 
